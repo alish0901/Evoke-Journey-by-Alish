@@ -203,7 +203,7 @@ nav ul li a.active {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/images/hero-bg.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
@@ -231,7 +231,7 @@ nav ul li a.active {
 /* Page Hero */
 .page-hero {
     height: 60vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/page-hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/hero-bg.jpg') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
@@ -404,7 +404,7 @@ nav ul li a.active {
 .cta {
     padding: 80px 0;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/cta-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/cta-bg.jpg') no-repeat center center/cover;
     color: var(--white);
 }
 
@@ -902,7 +902,7 @@ nav ul li a.active {
 .cta-contact {
     padding: 80px 0;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/cta-contact-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/cta-contact-bg.jpg') no-repeat center center/cover;
     color: var(--white);
 }
 
